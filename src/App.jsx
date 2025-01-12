@@ -8,7 +8,7 @@ import Pricing from "./sections/pricing";
 import Testimonials from "./sections/testimonials";
 
 export default function App() {
-  console.log("first");
+
   return (
     <main className="overflow-hidden">
       <Header />
